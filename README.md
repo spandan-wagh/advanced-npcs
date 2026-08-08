@@ -28,7 +28,6 @@ The framework is being developed as a C++ Unreal Engine plugin with separate Run
 ## Videos
 
 * Complete Plugin Overview — Coming soon
-* Development Log — Coming soon
 
 ## Documentation
 
