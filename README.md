@@ -10,7 +10,7 @@ Advanced NPCs is a modular Unreal Engine 5 framework for creating flexible, conf
 
 Many NPC systems are designed around rigid categories such as enemies, companions or bosses. Advanced NPCs instead provides reusable systems that developers can configure for different characters and gameplay situations.
 
-The framework is being developed as a C++ Unreal Engine plugin with separate Runtime and Editor modules.
+The framework is implemented as a C++ Unreal Engine plugin with separate Runtime and Editor modules.
 
 ## Core Systems
 
