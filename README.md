@@ -2,7 +2,7 @@
 
 Advanced NPCs is a modular Unreal Engine 5 framework for creating flexible, configurable and believable NPC behaviour.
 
-> Current status: Release candidate for Unreal Engine 5.7.
+> Version 1.0 for Unreal Engine 5.7.
 [Documentation](#documentation) • [Roadmap](ROADMAP.md) • [Changelog](CHANGELOG.md) • [Support](SUPPORT.md)
 ![Advanced NPCs](images/hero.png)
 
@@ -31,13 +31,16 @@ The framework is being developed as a C++ Unreal Engine plugin with separate Run
 
 ## Documentation
 
-The complete user documentation will be available in the `docs` folder.
+Complete user documentation is available here:
+
+[Advanced NPCs Official Documentation v1.0](docs/Advanced_NPCs_Official_Documentation_v1.0.pdf)
 
 ## Availability
 
-Advanced NPCs will be available through Fab.
+Advanced NPCs v1.0 is prepared for distribution through Fab.
 
-Fab listing: Coming soon
+Supported version: Unreal Engine 5.7  
+Supported platform: Win64
 
 ## Support and Feedback
 
@@ -55,6 +58,6 @@ When reporting a problem, please include:
 
 This repository is the public information, documentation and support page for Advanced NPCs. Plugin source code and downloadable binaries are not distributed through this repository.
 
-Third-party environment, vehicle, character and animation assets shown in demonstrations are used under their respective licences and are not included with Advanced NPCs.
+Demo and third-party content included with or shown alongside Advanced NPCs is subject to its respective licensing terms. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for details.
 
 © 2026 Spandan Wagh. All rights reserved.
