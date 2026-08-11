@@ -28,4 +28,4 @@ All significant changes to Advanced NPCs will be documented here.
 
 ### Current Status
 
-Advanced NPCs is undergoing final testing, packaging and documentation work before its first public release.
+Advanced NPCs v1.0 has completed development and release testing and is being prepared for distribution through Fab.
