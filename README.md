@@ -25,10 +25,6 @@ The framework is implemented as a C++ Unreal Engine plugin with separate Runtime
 * Runtime state management
 * Developer-focused editor customizations
 
-## Videos
-
-* Complete Plugin Overview — Coming soon
-
 ## Documentation
 
 Complete user documentation is available here:
