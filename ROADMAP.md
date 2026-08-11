@@ -4,6 +4,8 @@ This roadmap describes the current development direction for Advanced NPCs. Prio
 
 ## Version 1.0 — First Public Release
 
+## Version 1.0 — First Public Release
+
 * [x] Runtime and Editor module separation
 * [x] Configurable Intent system
 * [x] Intent Sets and per-NPC overrides
@@ -18,24 +20,13 @@ This roadmap describes the current development direction for Advanced NPCs. Prio
 * [x] Movement modifiers
 * [x] Custom Unreal Editor interfaces
 * [x] Complete user documentation
-* [ ] Final runtime testing
-* [ ] Final editor testing
-* [ ] Packaging validation
-* [ ] Clean-project installation testing
-* [ ] Demonstration project
-* [ ] Complete plugin overview video
-* [ ] Fab submission and review
+* [x] Final runtime testing
+* [x] Final editor testing
+* [x] Packaging validation
+* [x] Clean-project installation testing
+* [x] Demonstration project
+* [ ] Fab approval
 * [ ] Public release
-
-## Post-Launch
-
-* [ ] Review user reports and feedback
-* [ ] Resolve confirmed bugs
-* [ ] Improve documentation based on common questions
-* [ ] Publish setup tutorials and example workflows
-* [ ] Validate compatibility with supported Unreal Engine updates
-* [ ] Improve editor warnings and configuration feedback
-* [ ] Expand demonstration scenarios
 
 ## Future Exploration
 
