@@ -2,7 +2,7 @@
 
 Complete official documentation for Advanced NPCs v1.0:
 
-[Advanced NPCs Official Documentation v1.0](Advanced_NPCs_Official_Documentation_v1.0.pdf)
+[Advanced NPCs Official Documentation v1.0](AdvancedNPCs_OfficialDocumentation_v1.0.pdf)
 
 The manual covers installation, NPC setup, Brain systems, Intents,
 Conditions, Capabilities, Movement, Patrol Routes, Spawners,
