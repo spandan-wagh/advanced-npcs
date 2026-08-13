@@ -8,7 +8,7 @@ Advanced NPCs v1.0 supports Unreal Engine 5.7 on Win64.
 
 Before reporting a problem, please review the complete user documentation:
 
-[Advanced NPCs Official Documentation v1.0](docs/Advanced_NPCs_Official_Documentation_v1.0.pdf)
+[Advanced NPCs Official Documentation v1.0](docs/AdvancedNPCs_OfficialDocumentation_v1.0.pdf)
 
 ## Before Reporting a Problem
 
