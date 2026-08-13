@@ -29,7 +29,7 @@ The framework is implemented as a C++ Unreal Engine plugin with separate Runtime
 
 Complete user documentation is available here:
 
-[Advanced NPCs Official Documentation v1.0](docs/Advanced_NPCs_Official_Documentation_v1.0.pdf)
+[Advanced NPCs Official Documentation v1.0](docs/AdvancedNPCs_OfficialDocumentation_v1.0.pdf
 
 ## Availability
 
